@@ -2,10 +2,8 @@
 
 ## Sobre mim:
 
-<p>
-Entusiasta de desenvolvimento web. A 5 anos iniciei minha jornada como estudante em ADS, e desde então venho buscando mais conhecimento com cursos e exercícios práticos, sempre direcionado para as boas praticas do mercado.
 
-</p>
+Entusiasta de desenvolvimento web. A 5 anos iniciei minha jornada como estudante em ADS, e desde então venho buscando mais conhecimento com cursos e exercícios práticos, sempre direcionado para as boas praticas do mercado.
 
 ### Outras coisas:
 
